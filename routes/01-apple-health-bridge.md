@@ -7,10 +7,11 @@ into Apple Health, not just read from it.
 
 1. **Update Google Health** on the iPhone to version 5.05 or later
    (App Store → profile → scroll to updates).
-2. Open Google Health. On first launch after the update a consent page titled
-   **"Sync Google Health with Apple Health"** appears. Accept it.
-   If it does not appear: Google Health → profile → settings → *Apple Health* →
-   turn on sync, and grant all read/write categories.
+2. Open Google Health and go to **Connections → Apps and services → Add
+   connections → Apple Health → Get started**. Review and accept the consent page
+   titled **"Sync Google Health with Apple Health"**, then grant all categories
+   in the iOS permission sheet. (Some builds show it instead under
+   **profile icon → Partner apps → Apple Health**.) Requires iOS 16.4 or later.
 3. Verify the grant in Apple Health: **Health app → profile picture → Apps →
    Google Health**. Everything you want in widgets must be allowed to *write*.
 4. Wear the Fitbit for a bit, sync Google Health, then open Apple Health →
